@@ -109,3 +109,13 @@ ZSH_THEME_GIT_PROMPT_SUFFIX="%b%{$fg[red]%}›%{$reset_color%}"
 
 alias ls='ls -pFa --color'
 alias cd..='cd ..'
+
+#alias smtp='python -m smtpd -n -c DebuggingServer 127.0.0.1:1025'
+#alias tlnb='echo "----------------\n"; tail -f logs/user.log'
+#alias sshnb='ssh testuser@app10.xxxxxx.com'
+#alias sp='~/testuser/manage.py shell_plus --use-pythonrc'
+#alias cdsg='cd ~/staging'
+#alias cdnb='cd ~/testproject'
+#alias sshdo=/srv/testprogram/utils/ssh.sh
+
+#cd ~/00_tools
